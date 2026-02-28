@@ -1,3 +1,11 @@
+<h1>
+  <img width="60" style="vertical-align: middle;"
+  src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjAwIiB2aWV3Qm94PSIwIDAgMjQgMjQiIGZpbGw9IiM3MjJmMzciIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTMgMThMNSA4TDkgMTJMMTIgNUwxNSAxMkwxOSA4TDIxIDE4SDNaIi8+PC9zdmc+" />
+  <span style="vertical-align: middle; margin-left: 8px;">
+    SkillBridge AI
+  </span>
+</h1>
+
 ## AI-Based Skill Gap Identification System
 SkillBridge AI is an AI-powered platform that analyzes resumes to identify skill gaps and provides personalized learning recommendations.
 
