@@ -1,12 +1,5 @@
-<h1>
-  <img width="60" style="vertical-align: middle;"
-  src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjAwIiB2aWV3Qm94PSIwIDAgMjQgMjQiIGZpbGw9IiM3MjJmMzciIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTMgMThMNSA4TDkgMTJMMTIgNUwxNSAxMkwxOSA4TDIxIDE4SDNaIi8+PC9zdmc+" />
-  <span style="vertical-align: middle; margin-left: 8px;">
-    SkillBridge AI
-  </span>
-</h1>
-
-## AI-Based Skill Gap Identification System
+# SkillBridge AI
+## AI-Based Skill Gap Identification System 
 SkillBridge AI is an AI-powered platform that analyzes resumes to identify skill gaps and provides personalized learning recommendations.
 
 [![express](https://img.shields.io/badge/Express.js-4.19.2-orange?style=for-the-badge&logo=express)](https://www.npmjs.com/package/express) [![cors](https://img.shields.io/badge/CORS-2.8.5-blue?style=for-the-badge)](https://www.npmjs.com/package/cors)  [![dotenv](https://img.shields.io/badge/Dotenv-16.4.5-green?style=for-the-badge)](https://www.npmjs.com/package/dotenv)  [![nodemon](https://img.shields.io/badge/Nodemon-3.1.0-yellow?style=for-the-badge)](https://www.npmjs.com/package/nodemon)
